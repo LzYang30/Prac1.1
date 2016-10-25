@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Prac1</string>
+    <string name="buttonSendAll">Send</string>
+    <string name="hint_Id">Enter ID Here</string>
+    <string name="hint_Name">Enter Name Here</string>
+    <string name="textViewName">Name Here</string>
+    <string name="textViewID">ID Here</string>
+    <string name="buttonClose">Close</string>
+</resources>
